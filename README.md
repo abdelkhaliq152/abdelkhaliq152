@@ -23,7 +23,8 @@
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
-  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://th.bing.com/th?id=OSAAS.C27BAA7112B6F36A360DBBC4ACA18527&w=80&h=80&c=1&o=6&dpr=1.3&pid=5.1"/></a> 
+  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="![image](https://github.com/abdelkhaliq152/abdelkhaliq152/assets/149975737/22cca944-9bdb-4e50-ac9e-47fd7384cc43)
+"/></a> 
  <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
  <a style="padding-right:8px;" href="https://numpy.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
   <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/></a>
