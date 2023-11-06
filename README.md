@@ -41,5 +41,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abdelkhaliq152/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
+<a href = "https://t.me/abdelkhaliq152" target="_blank"><img src="https://icons8.com/icon/25n4hOEoY7ss/telegram-app"/></a> &nbsp; &nbsp;
+
 
 </p>
